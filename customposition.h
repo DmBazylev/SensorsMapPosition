@@ -54,6 +54,8 @@ private:
     QSqlDatabase db;//creating a database class object
     QSqlQuery* query;//creating a class object for queries (work) with the database
 
+    QVector<QGeoCoordinate>vecAverageCoordinate;
+
    public slots:
     void positionUpdated(const QGeoPositionInfo &info);//slot to get coordinate
 
