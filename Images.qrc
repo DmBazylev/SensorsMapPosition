@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>D:/QtPictures/Compass1.jpg</file>
+        <file>D:/QtPictures/Sapper/flag11.png</file>
+    </qresource>
+</RCC>
